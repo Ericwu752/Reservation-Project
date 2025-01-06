@@ -1,0 +1,53 @@
+All Reservations Manifest
+-----------------------------------------------
+Purple Pickup
+Driver: Pat Cooper
+Seat front: Ron
+-----------------------------------------------
+Green Pickup
+Driver: Jane Cox
+Seat front: Unassigned
+-----------------------------------------------
+Black Pickup
+Driver: Tim Taylor
+Seat front: Unassigned
+-----------------------------------------------
+Red Compact
+Driver: Ben Butler
+Seat back_left: Unassigned
+Seat back_right: Unassigned
+Seat front: Unassigned
+-----------------------------------------------
+Blue Compact
+Driver: Art Campbell
+Seat back_left: Unassigned
+Seat back_right: Unassigned
+Seat front: Unassigned
+-----------------------------------------------
+Yellow Compact
+Driver: Ann Edwards
+Seat back_left: Unassigned
+Seat back_right: Unassigned
+Seat front: Unassigned
+-----------------------------------------------
+Blue Sedan
+Driver: Grace Wan
+Seat back_left: Unassigned
+Seat back_middle: Ed
+Seat back_right: Unassigned
+Seat front: Unassigned
+-----------------------------------------------
+Black Sedan
+Driver: Larry Adams
+Seat back_left: Unassigned
+Seat back_middle: Unassigned
+Seat back_right: Unassigned
+Seat front: Unassigned
+-----------------------------------------------
+Green Sedan
+Driver: Jess Quirk
+Seat back_left: Unassigned
+Seat back_middle: Unassigned
+Seat back_right: Unassigned
+Seat front: Unassigned
+-----------------------------------------------
